@@ -1,4 +1,5 @@
-echo ' Hello guy's' |lolcat
+#!/usr/bin/bash
+echo ' Hello guys'|lolcat
 echo ' I'm Black Devil MHK'|lolcat
 echo ' My real name is Md. Mahodi Hasan Khan'|lolcat
 echo ' My code name is B2A6K D3V1L-MHK'|lolcat
